@@ -7,7 +7,7 @@
 # Overview of program and Approach
 1. I have solved this problem using partition DP algorithm.
 2. For improving the performance of the program, I have sorted the input in decreasing order of their length.
-3. The program starts checking words in decreasing order of their length and stops after getting two words -(longest and second longest words).
+3. The program starts checking words in decreasing order of their length , (if they are compunded or not) and stops after getting two words -(longest and second longest words).
 4. For checking a word to be compounded or not I have used DP algorithm.
 
 # Time and Space Complexity
