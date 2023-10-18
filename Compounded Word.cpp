@@ -61,8 +61,8 @@ void solve(){
 //main fxn
 int main() {
 #ifndef ONLINE_JUDGE
-    freopen("input.txt", "r",stdin);
-    freopen("output.txt", "w",stdout);
+    freopen("Input_02.txt", "r",stdin);
+    freopen("Output.txt", "w",stdout);
 #endif
 	solve();
 	return 0;
